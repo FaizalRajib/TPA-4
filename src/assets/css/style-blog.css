@@ -1,0 +1,15 @@
+#articel p{
+    display: flex;
+    justify-content: center;
+}
+.articel-cont{
+    display: flex;
+    justify-content: space-around;
+}
+.box{
+    background-color: #35399f;
+    padding: 10px;
+    margin-bottom: 20px;
+    border-radius: 15px;
+    color: #FFFF;
+}

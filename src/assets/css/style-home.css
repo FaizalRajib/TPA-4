@@ -1,0 +1,41 @@
+
+*{
+    font-family: 'Poppins', sans-serif;
+    color: #FFFF;
+}
+#home{
+    background-image: url(./../img/14308682_5446991.jpg);
+    padding: 97px 210px 20px 170px;
+    display: flex;
+    width: auto;
+}
+
+#txt1, #txt2{
+    color: #FFFF;
+    font-size: 25px;
+    font-weight: 500px;
+}
+
+#nama{
+    color: #FFFF;
+    font-weight: 700;
+    font-size: 48px;
+}
+
+
+#get-started{
+    width: 150px;
+    height: 40px;
+    background: #F7471E;
+    border-radius: 15px;
+    font-weight: 700;
+    font-size: 15px;
+    color: #FFFF;
+    cursor: pointer;
+    border: none;
+    margin: 10px;
+}
+
+#get-started:hover{
+    background:#9c1f03 ;
+}
